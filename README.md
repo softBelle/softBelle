@@ -7,7 +7,7 @@
 ## Experience
 <ul>
 	<li>Frontend: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
-	<li>Backend: RESTful API, SOAP api, Node.js server, Django, Flask, Ruby on Rails, Laravel, Symfony, Yii, CodeIgniter, Elasticsearch, SpringBoot, Kucoin API, Twillio API, AWS</li>
+	<li>Backend: Node.js, Django, Flask, Ruby on Rails, Laravel, Symfony, Yii, CodeIgniter, Elasticsearch, SpringBoot, RESTful API, SOAP api, Kucoin API, Twillio API, AWS</li>
 	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite,</li>
 	<li>Blockchain: Ethereum, Solana, Wax, Tron, IPFS</li>
 	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk</li>
