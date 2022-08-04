@@ -5,7 +5,7 @@
 - 👀 I have been excited and addictive to the computer programming since my early age.
 - 🚀 My first release was a simple flash shooting game.
 - 👨‍🎓 When I was 18, I went to the University of Tampa to take the Computer Science course and clinic course of Finance.
-- 📫 live:.cid.cc901cfeca9bb95f
+- 🤝 live:.cid.cc901cfeca9bb95f
 ## Experience
 <ul>
 	<li>Frontend: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
