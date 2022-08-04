@@ -1,8 +1,10 @@
-# Hi 👋, I'm a senior web full-stack developer based in San Francisco, CA
+# Hi 👋, I'm a senior web full stack developer.
 ## Currently working on:
 - 🛠 currently working on BunJS backend
 ## A little about me
-- 👀 I get into the program early in my age.
+- 👀 I have been excited and addictive to the computer programming since my early age.
+- 🚀 My first release was a simple flash shooting game.
+- 👨‍🎓 When I was 18, I went to the University of Tampa to take the Computer Science course and clinic course of Finance.
 - 📫 live:.cid.cc901cfeca9bb95f
 ## Experience
 <ul>
