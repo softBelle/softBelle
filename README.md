@@ -6,9 +6,11 @@
 - 🚀 My first release was a simple flash shooting game.
 - 👨‍🎓 When I was 18, I went to the University of Tampa to take the Computer Science course and clinic course of Finance.
 <br/>
-- 🤝 skype: live:.cid.cc901cfeca9bb95f
-- 🤝 whatsapp : +380954920559
-- 🤝 telgegram : https://t.me/Soft0angel
+<ul>
+	<li>🤝 skype: live:.cid.cc901cfeca9bb95f</li>
+	<li>🤝 whatsapp : +380954920559</li>
+	<li>🤝 telgegram : https://t.me/Soft0angel</li>
+</ul>
 <br/>
 
 ## Experience:
