@@ -1,4 +1,18 @@
 <h1 align="center">A senior web developer </h1>
+
+## Languages:
+ Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
+## Experience:
+<ul>
+	<li>Frontend: React.js, Vue.js, AngularJS, Unity Webgl and Cocos</li>
+	<li>Extra: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
+	<li>Backend: Node.js, Django, Flask, Ruby on Rails, Laravel, Symfony, Yii, CodeIgniter, Elasticsearch, SpringBoot, RESTful API, SOAP api, Swagger API, Kucoin API, Twillio API, AWS</li>
+	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite,</li>
+	<li>Blockchain: Ethereum, Solana, Wax, Tron, IPFS</li>
+	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk</li>
+	<p>...</p>
+</ul>
+
 ## Currently working on:
 - 🛠 currently working on BunJS backend
 ## A little about me
@@ -12,19 +26,9 @@
 	<li>🤝 telgegram : https://t.me/Soft0angel</li>
 </ul>
 
-## Experience:
-<ul>
-	<li>Frontend: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
-	<li>Frontend: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
-	<li>Backend: Node.js, Django, Flask, Ruby on Rails, Laravel, Symfony, Yii, CodeIgniter, Elasticsearch, SpringBoot, RESTful API, SOAP api, Swagger API, Kucoin API, Twillio API, AWS</li>
-	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite,</li>
-	<li>Blockchain: Ethereum, Solana, Wax, Tron, IPFS</li>
-	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk</li>
-	<p>...</p>
-</ul>
 
-## Languages:
-BunJS, C++, Python, Node.js, Javascript, PHP, C#, Ruby, Java, , Rust, Solidity, Scala
+
+
 
 ## URL
 
