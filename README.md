@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">A senior web developer </h1>
+<h1 align="center">A senior web developer </h1>
 ## Currently working on:
 - 🛠 currently working on BunJS backend
 ## A little about me
