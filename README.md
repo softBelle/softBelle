@@ -1,20 +1,26 @@
 <h1 align="center">A senior web developer </h1>
 
-## Languages:
- Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
-## Experience:
+## Languages
+Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
+## Experience
 <ul>
 	<li>Frontend: React.js, Vue.js, AngularJS, Unity Webgl and Cocos</li>
-	<li>Extra: React.js, Vue.js, Web3.js, AngularJS, Ether.js, D3.js, Three.js, Unity and Unity Webgl</li>
-	<li>Backend: Node.js, Django, Flask, Ruby on Rails, Laravel, Symfony, Yii, CodeIgniter, Elasticsearch, SpringBoot, RESTful API, SOAP api, Swagger API, Kucoin API, Twillio API, AWS</li>
-	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite,</li>
+	<li>Extra: Web3.js, Ether.js, D3.js, Three.js</li>
+	<li>Backend: Node.js(Express/Socket.io), Django, Flask, SpringBoot, Laravel, Symfony, Yii, CodeIgniter, Ruby on Rails</li>
+	<li>Middleware: Elasticsearch, RESTful API, SOAP api, Swagger API, Kucoin API, Twillio API, AWS</li>
+	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite</li>
+	<li>Cache: Redis, Memcached</li>
 	<li>Blockchain: Ethereum, Solana, Wax, Tron, IPFS</li>
 	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk</li>
 	<p>...</p>
 </ul>
 
-## Currently working on:
-- 🛠 currently working on BunJS backend
+### Scrapping:
+<ul>
+	<li>Python: Selenium, Requests, Scrapy, Bs4</li>
+	<li>Node.js: Puppeteer, Playwright</li>
+</ul>
+
 ## A little about me
 - 👀 I have been excited and addictive to the computer programming since my early age.
 - 🚀 My first release was a simple flash shooting game.
@@ -26,10 +32,8 @@
 	<li>🤝 telgegram : https://t.me/Soft0angel</li>
 </ul>
 
-
-
-
-
+## Research
+- 🛠 currently studying on BunJS backend
 ## URL
 
 
