@@ -6,12 +6,13 @@ Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
 <ul>
 	<li>Frontend: React.js, Vue.js, AngularJS, Unity Webgl and Cocos</li>
 	<li>Extra: Web3.js, Ether.js, D3.js, Three.js</li>
+	<li>CMS: Wordpress, Elementor, Shopify</li>
 	<li>Backend: Node.js(Express/Socket.io), Django, Flask, SpringBoot, Laravel, Symfony, Yii, CodeIgniter, Ruby on Rails</li>
 	<li>Middleware: Elasticsearch, RESTful API, SOAP api, Swagger API, Kucoin API, Twillio API, AWS</li>
 	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite</li>
 	<li>Cache: Redis, Memcached</li>
 	<li>Blockchain: Ethereum, Solana, Wax, Tron, IPFS</li>
-	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk</li>
+	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk, Hostinger, aaPanel</li>
 	<p>...</p>
 </ul>
 
