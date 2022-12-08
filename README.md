@@ -28,9 +28,9 @@ Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
 - 👨‍🎓 When I was 18, I went to the University of Tampa to take the Computer Science course and clinic course of Finance.
 ### Contacts:
 <ul>
-	<li>🤝 skype: live:.cid.cc901cfeca9bb95f</li>
 	<li>🤝 whatsapp : +380954920559</li>
-	<li>🤝 telgegram : https://t.me/Soft0angel</li>
+	<li>🤝 skype: live:.cid.cc901cfeca9bb95f</li>
+	<li>🤝 telgegram : https://t.me/love0wolf</li>
 </ul>
 
 ## Research
@@ -41,6 +41,7 @@ Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
 
 <!--
 **softBelle/softBelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	<li>🤝 discord : softangel#0059</li>
 
 Here are some ideas to get you started:
 
