@@ -35,7 +35,14 @@ Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
 
 ## Research
 - 🛠 currently studying on BunJS backend
-## URL
+## Deployment
+<ul>
+	<li>https://demo-1-iota.vercel.app</li>
+	<li>https://demo-2-two.vercel.app</li>
+	<li>https://about-me-gold.vercel.app</li>
+</ul>
+
+## On
 
 
 
