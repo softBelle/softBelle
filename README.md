@@ -4,13 +4,14 @@
 Node.js, Python, C++, C#, Javascript, PHP, Ruby, Java, , Rust, Solidity, Scala
 ## Experience
 <ul>
+	<li>Backend: Node.js(Express/Socket.io/Websocket), Python(Django/Flask), Java(Spring Boot), PHP(Laravel/Symfony/Yii/CodeIgniter), Ruby on Rails</li>
+	<li>Middleware: Elasticsearch, RESTful API, SOAP api, Swagger API, Stmp, Twillio API, AWS</li>
+	<li>Blockchain & API: Wax, Tron, IPFS, Binance API, Moralis API, CoinAPI, Coingecko API, etc</li>
+	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, PostgreSQL, CouchDB, SQLite</li>
+	<li>Cache: Memcached, Redis</li>
 	<li>Frontend: React.js, Vue.js, AngularJS, Unity Webgl and Cocos</li>
 	<li>Extra: Web3.js, Ether.js, D3.js, Three.js</li>
 	<li>CMS: Wordpress, Elementor, Shopify</li>
-	<li>Backend: Node.js(Express/Socket.io), Django, Flask, SpringBoot, Laravel, Symfony, Yii, CodeIgniter, Ruby on Rails</li>
-	<li>Middleware: Elasticsearch, RESTful API, SOAP api, Swagger API, Stmp, Twillio API, AWS</li>
-	<li>Blockchain & API: Wax, Tron, IPFS, Binance API, Moralis API, CoinAPI, Coingecko API, etc</li>
-	<li>Database: MongoDB, MySQL, MariaDB, Neo4j, Redis, PostgreSQL, CouchDB, SQLite</li>
 	<li>Hosting: Heroku, DigitalOcean, Cpanel, Plesk, Hostinger, aaPanel</li>
 	<p>...</p>
 </ul>
